@@ -1,1 +1,1 @@
-# Google Maps in React Crash Course
+# Google Maps and Open API to a tour guide
